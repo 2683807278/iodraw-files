@@ -38,10 +38,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8O7u5HaSaoMjevAX5lBl-19" value="对数据进行KMeans聚类、选取最优K数并为样本打上蔟标签" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="347.5" y="350" width="125" height="50" as="geometry" />
+          <mxGeometry x="347.5" y="350" width="125" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8O7u5HaSaoMjevAX5lBl-21" value="从每个蔟中分别选取80%的训练集和20%的测试集" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="430" width="120" height="60" as="geometry" />
+          <mxGeometry x="350" y="430" width="160" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
