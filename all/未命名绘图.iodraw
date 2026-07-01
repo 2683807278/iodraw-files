@@ -20,7 +20,7 @@
           <mxGeometry x="10" y="70" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="8O7u5HaSaoMjevAX5lBl-14" value="对部分变量进行独热编码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="310" width="170" height="50" as="geometry" />
+          <mxGeometry y="150" width="170" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
