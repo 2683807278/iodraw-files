@@ -61,7 +61,7 @@
         <mxCell id="8O7u5HaSaoMjevAX5lBl-27" value="使用PCA降维至二维并绘制散点图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="430" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8O7u5HaSaoMjevAX5lBl-29" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="8O7u5HaSaoMjevAX5lBl-29" value="输出聚类结结果&lt;div&gt;与散点图&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="730" y="430" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
