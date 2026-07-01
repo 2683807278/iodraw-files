@@ -43,17 +43,26 @@
         <mxCell id="8O7u5HaSaoMjevAX5lBl-19" value="对数据进行KMeans聚类、选取最优K数并为样本打上蔟标签" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="347.5" y="350" width="125" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="8O7u5HaSaoMjevAX5lBl-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8O7u5HaSaoMjevAX5lBl-21" target="8O7u5HaSaoMjevAX5lBl-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8O7u5HaSaoMjevAX5lBl-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8O7u5HaSaoMjevAX5lBl-21" target="8O7u5HaSaoMjevAX5lBl-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8O7u5HaSaoMjevAX5lBl-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8O7u5HaSaoMjevAX5lBl-21" target="8O7u5HaSaoMjevAX5lBl-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="8O7u5HaSaoMjevAX5lBl-21" value="从每个蔟中分别选取80%的训练集和20%的测试集" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="430" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8O7u5HaSaoMjevAX5lBl-24" value="决策树算法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="228" y="520" width="120" height="60" as="geometry" />
+          <mxGeometry x="230" y="550" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8O7u5HaSaoMjevAX5lBl-25" value="随机森林算法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="520" width="120" height="60" as="geometry" />
+          <mxGeometry x="362" y="550" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8O7u5HaSaoMjevAX5lBl-26" value="SVM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="520" width="120" height="60" as="geometry" />
+          <mxGeometry x="512" y="550" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8O7u5HaSaoMjevAX5lBl-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8O7u5HaSaoMjevAX5lBl-27" target="8O7u5HaSaoMjevAX5lBl-29">
           <mxGeometry relative="1" as="geometry" />
