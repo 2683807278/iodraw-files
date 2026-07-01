@@ -7,9 +7,6 @@
         <mxCell id="8O7u5HaSaoMjevAX5lBl-1" value="读取各省份一分一段表数据" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="70" width="170" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="8O7u5HaSaoMjevAX5lBl-4" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="235" y="130" width="80" height="80" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
