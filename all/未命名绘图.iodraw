@@ -55,6 +55,9 @@
         <mxCell id="8O7u5HaSaoMjevAX5lBl-21" value="从每个蔟中分别选取80%的训练集和20%的测试集" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="430" width="160" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="8O7u5HaSaoMjevAX5lBl-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8O7u5HaSaoMjevAX5lBl-24" target="8O7u5HaSaoMjevAX5lBl-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="8O7u5HaSaoMjevAX5lBl-24" value="决策树算法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="550" width="120" height="40" as="geometry" />
         </mxCell>
@@ -65,7 +68,12 @@
           <mxGeometry x="350" y="550" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8O7u5HaSaoMjevAX5lBl-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8O7u5HaSaoMjevAX5lBl-26" target="8O7u5HaSaoMjevAX5lBl-37">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="540" y="610" />
+              <mxPoint x="410" y="610" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="8O7u5HaSaoMjevAX5lBl-26" value="SVM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="550" width="120" height="40" as="geometry" />
