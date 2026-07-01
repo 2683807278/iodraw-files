@@ -43,8 +43,11 @@
         <mxCell id="8O7u5HaSaoMjevAX5lBl-21" value="从每个蔟中分别选取80%的训练集和20%的测试集" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="430" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8O7u5HaSaoMjevAX5lBl-24" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8O7u5HaSaoMjevAX5lBl-24" value="决策树算法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="228" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8O7u5HaSaoMjevAX5lBl-25" value="决策树算法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="238" y="530" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
