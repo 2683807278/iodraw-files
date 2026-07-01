@@ -31,8 +31,8 @@
         <mxCell id="8O7u5HaSaoMjevAX5lBl-16" value="数据合并&lt;div&gt;Z-score标准化&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="230" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="8O7u5HaSaoMjevAX5lBl-19" value="对数据进行" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="300" width="130" height="30" as="geometry" />
+        <mxCell id="8O7u5HaSaoMjevAX5lBl-19" value="对数据进行KMeans聚类并选取最优K数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="117.5" y="310" width="125" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
