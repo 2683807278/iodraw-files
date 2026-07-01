@@ -73,7 +73,7 @@
         <mxCell id="8O7u5HaSaoMjevAX5lBl-29" value="输出聚类结结果&lt;div&gt;与散点图&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="660" y="430" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8O7u5HaSaoMjevAX5lBl-37" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8O7u5HaSaoMjevAX5lBl-37" value="分别计算最优参数并综合比较最优算法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="353" y="630" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
