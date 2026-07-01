@@ -10,14 +10,20 @@
         <mxCell id="8O7u5HaSaoMjevAX5lBl-1" value="读取各省份一分一段表数据" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="70" width="170" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="8O7u5HaSaoMjevAX5lBl-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8O7u5HaSaoMjevAX5lBl-5" target="8O7u5HaSaoMjevAX5lBl-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="8O7u5HaSaoMjevAX5lBl-5" value="异常值处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="191.25" y="150" width="167.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8O7u5HaSaoMjevAX5lBl-7" value="数据合并" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="215" y="240" width="120" height="40" as="geometry" />
+          <mxGeometry x="215" y="220" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8O7u5HaSaoMjevAX5lBl-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8O7u5HaSaoMjevAX5lBl-8" target="8O7u5HaSaoMjevAX5lBl-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8O7u5HaSaoMjevAX5lBl-8" value="读取各省份详细数据" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="240" width="150" height="50" as="geometry" />
+          <mxGeometry x="30" y="215" width="150" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
