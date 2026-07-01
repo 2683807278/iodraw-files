@@ -25,8 +25,8 @@
         <mxCell id="8O7u5HaSaoMjevAX5lBl-8" value="读取各省份详细数据" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="10" y="220" width="150" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="8O7u5HaSaoMjevAX5lBl-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="215" y="290" width="120" height="60" as="geometry" />
+        <mxCell id="8O7u5HaSaoMjevAX5lBl-12" value="对部分变量进行独热编码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="215" y="290" width="145" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
