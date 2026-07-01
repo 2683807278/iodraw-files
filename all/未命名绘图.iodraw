@@ -37,6 +37,9 @@
         <mxCell id="8O7u5HaSaoMjevAX5lBl-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8O7u5HaSaoMjevAX5lBl-19" target="8O7u5HaSaoMjevAX5lBl-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="8O7u5HaSaoMjevAX5lBl-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8O7u5HaSaoMjevAX5lBl-19" target="8O7u5HaSaoMjevAX5lBl-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="8O7u5HaSaoMjevAX5lBl-19" value="对数据进行KMeans聚类、选取最优K数并为样本打上蔟标签" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="347.5" y="350" width="125" height="60" as="geometry" />
         </mxCell>
@@ -52,8 +55,14 @@
         <mxCell id="8O7u5HaSaoMjevAX5lBl-26" value="SVM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="520" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8O7u5HaSaoMjevAX5lBl-27" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8O7u5HaSaoMjevAX5lBl-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8O7u5HaSaoMjevAX5lBl-27" target="8O7u5HaSaoMjevAX5lBl-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8O7u5HaSaoMjevAX5lBl-27" value="使用PCA降维至二维并绘制散点图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8O7u5HaSaoMjevAX5lBl-29" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="730" y="430" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
